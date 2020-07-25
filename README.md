@@ -1,8 +1,9 @@
+<div align="center">
+
 <img src="/jsebastianck.svg">
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<div align="center">
 
 [![Linkedin](https://img.shields.io/badge/-Sebastian%20Coronel-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jsebastianck/)](https://www.linkedin.com/in/jsebastianck/) [![DEV](https://img.shields.io/badge/-DEV-%230A0A0A.svg?style=flat-square&logo=DEV.to&logoColor=white)](https://dev.to/jsebastianck/)
 

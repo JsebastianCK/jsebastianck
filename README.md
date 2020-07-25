@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/jsebastianck.svg">
+<img src="https://raw.githubusercontent.com/JsebastianCK/jsebastianck/880eaedddb9f0385b1d0a7d954efedb25bca93c7/jsebastianck.svg">
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

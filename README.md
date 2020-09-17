@@ -11,7 +11,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :boy: About me
-My name is **Sebastian Coronel** (22) and i'm a **Full Stack Developer** located in Neuquén,Argentina currently working at *ADUS/IPVU*. Been coding as a hobby since I was 11 years old and professionally for the past 3 years. Making my way through **Computer Science**
+My name is **Sebastian Coronel** (22) and i'm a **Full Stack Developer** located in Neuquén,Argentina currently working at *PatagonianIT*. Been coding as a hobby since I was 11 years old and professionally for the past 3 years. Making my way through **Computer Science**
 
 ## :computer: Currently Learning
 *  [TsED Framework](https://tsed.io/)
